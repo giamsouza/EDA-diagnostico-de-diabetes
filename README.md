@@ -28,4 +28,5 @@ Identificar possíveis dados ausentes ou valores atípicos.
 ```bash
 git clone https://github.com/giamsouza/EDA-Diagnosticando-Diabetes.git
 cd EDA-Diagnosticando-Diabetes
+pip install -r requirements.txt
 
