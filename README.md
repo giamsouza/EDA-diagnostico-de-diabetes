@@ -23,6 +23,19 @@ Carregar e inspecionar os dados para entender sua estrutura.
 Identificar possíveis dados ausentes ou valores atípicos.
 
 Corrigir e substituir valores inválidos (como zeros em colunas onde não fazem sentido).
+1.Como executar
+Clone o repositório:
+
+bash
+
+git clone https://github.com/giamsouza/EDA-Diagnosticando-Diabetes.git
+cd EDA-Diagnosticando-Diabetes
+2.Instale as dependências (caso tenha um requirements.txt):
+
+bash
+
+pip install -r requirements.txt
+3.Abra o notebook EDA Diagnosing Diabetes.ipynb em Jupyter Notebook ou JupyterLab para seguir a análise passo a passo.
 
 Analisar padrões nos dados faltantes.
 
